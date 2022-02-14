@@ -4,7 +4,10 @@ import Header from "../../components/Header";
 function Home() {
     return (
         <div className={"page"}>
-                <Header/>
+            <Header/>
+            <div className={"page-content"}>
+
+            </div>
         </div>
     );
 }

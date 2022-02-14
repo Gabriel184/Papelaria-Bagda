@@ -5,7 +5,9 @@ export default function Header(){
     return (
         <div className={"header-base"}>
             <div className={"header-body"}>
-                <strong>TESTE</strong>
+                <p>Teste</p>
+                <p>Teste</p>
+                <p>Teste</p>
             </div>
         </div>
     );
